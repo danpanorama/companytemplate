@@ -1,0 +1,18 @@
+.primaryRedButton{
+    border: none;
+    background-color:var(--red-color);
+    color: white;
+    border-radius: 5px;
+}
+.smallButtonPadding{
+    padding: 8px 15px;
+}
+.longButtonPadding{
+    padding: 15px 15px;
+}
+.w100{
+    width: 100%;
+}
+.marginTop30{
+    margin-top: 30px;
+}

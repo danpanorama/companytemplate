@@ -1,0 +1,157 @@
+ .homeOpenHolder{
+    min-height: 45vh;
+    background-color:var(--purple-color) ;
+ }
+ .container{
+    width: 80%;
+    margin: 0 auto;
+ }
+ .paddingBottomTop{
+   padding-bottom: 20px;
+   padding-top: 20px;
+ }
+ .primaryHeader{
+    color: white;
+    font-size: 3rem;
+    font-weight: 500;
+    margin-bottom: 15px;
+  
+ }
+ .text{
+    color: white;
+    font-size: 1rem;
+ }
+ .marginTop50{
+    margin-top: 50px;
+}
+
+.imageHolder{
+  height: 50vh;
+   width: 100%;
+   overflow: hidden;
+   margin-top: 50px;
+   background-image: url(../images/model.jpg);
+   background-size: cover;
+   object-fit: cover;
+   background-position: center;
+}
+
+
+/* about section  */
+.aboutSection{
+   min-height: 50vh;
+   margin-bottom: 30px;
+}
+.numberInfo{
+   margin-bottom: 20px;
+}
+.secondaryHeader{
+font-size: 1.7rem;
+font-weight: 700;
+}
+.number{
+   margin-bottom: 20px;
+   margin-top: 30px;
+   font-size: 3rem;
+   color: var(--red-color);
+}
+.thirdHeader{
+   margin-bottom: 10px;
+}
+
+/* upload video section  */
+
+.uploadVideoSection{
+   min-height: 40vh;
+   background-image: linear-gradient(rgba(0, 0, 0, 0.338),rgba(0, 0, 0, 0.395)),url(../images/bgmodel.jpg);
+   background-size: cover;
+   object-fit: cover;
+   padding: 30px 0;
+}
+
+.uploadVideoHolder{
+  
+   padding-top: 35px;
+   padding-bottom: 100px;
+   width: 90%;
+   background-color: white;
+   border-radius: 30px;
+
+}
+.SquareBox{
+   width: 80%;
+}
+.input{
+   min-height: 40px;
+   width: 90%;
+   margin-top: 30px;
+   border: 1px solid rgb(218, 218, 218);
+   border-radius: 3px;
+   background-color: rgb(243, 243, 243);
+   padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+
+/* section info started  */
+
+.containerInfo{
+   min-height: 10vh;
+   background-color: var(--purple-color);
+   padding: 50px 0;
+}
+
+.infoHeader{
+   
+   color: white;
+   font-size: 1.6rem;
+   text-align: center;
+   margin-bottom: 20px;
+}
+
+
+/* costumersSEction started  */
+
+.scrollX{
+   overflow-x: scroll;
+ 
+}
+.scrollPadding{
+   padding-left: 40px;
+   padding-right: 40px;
+}
+.paddingSection{
+   padding: 50px 0 50px 0;
+}
+.customersSection{
+   min-height: 40vh;
+   padding-top: 50px;
+   padding-bottom: 60px;
+}
+
+.oneComment{
+   min-width: 200px;
+   border-radius: 10px;
+   background-color: var(--gray-color);
+   padding: 30px;
+}
+.commentText{
+   margin-bottom: 30px;
+}
+.circleImage{
+   height: 50px;
+   width: 50px;
+   border-radius: 50%;
+   background-size: cover;
+   object-fit: cover;
+   overflow: hidden;
+   
+}
+
+.navbtn{
+   height: 50px;
+   width: 50px;
+   border-radius: 50%;
+   border: 1px solid #b5b2b2;
+   
+}
